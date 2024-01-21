@@ -24,3 +24,6 @@ class Tile:
         example: `🀄`
         """
         return chr(0x1F000 + self.id)
+    
+    def __gt__(self, other:"Tile") -> bool: return self.id > other.id
+    def __lt__(self, other:"Tile") -> bool: return self.id < other.id
