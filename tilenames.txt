@@ -1,0 +1,44 @@
+east wind
+south wind
+west wind
+north wind
+red dragon
+green dragon
+white dragon
+one of characters
+two of characters
+three of characters
+four of characters
+five of characters
+six of characters
+seven of characters
+eight of characters
+nine of characters
+one of bamboos
+two of bamboo
+three of bamboo
+four of bamboo
+five of bamboo
+six of bamboo
+seven of bamboo
+eight of bamboo
+nine of bamboo
+one of circles
+two of circles
+three of circles
+four of circles
+five of circles
+six of circles
+seven of circles
+eight of circles
+nine of circles
+plum
+orchid
+bamboo
+chrysanthemum
+spring
+summer
+autumn
+winter
+joker
+(back)
